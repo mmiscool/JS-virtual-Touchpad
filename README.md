@@ -1,7 +1,7 @@
 # JS-virtual-Touchpad
 Its like having a mouse in your mobile browser. 
 
-<img src="https://github.com/mmiscool/JS-virtual-Touchpad/assets/6439772/15f435fd-4ca7-4339-a142-1185b9951157" width="300px">
+<img src="https://github.com/mmiscool/JS-virtual-Touchpad/assets/6439772/664d0ff0-2827-494a-94b7-b26d64ef3539" width="300px">
 
 # Basic functionality
 This project provides a basic emulation of a laptop touchpad that can be overlayed over an application designed for desktop use. The touchpad shows up as a mostly transparent overlay over your web application. 
