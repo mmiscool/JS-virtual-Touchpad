@@ -27,7 +27,7 @@ if (window.innerHeight !== screen.height) document.body.requestFullscreen();
 
 # In-depth explanation of how it works 
 See article: 
-
+https://medium.com/@admin_11488/bridging-the-gap-making-a-desktop-web-app-mobile-friendly-with-a-virtual-mouse-touchpad-e37b69835a9f
 
 # Reason this thing exists 
 JSketcher is a browser based CAD modeler. I wanted to make it work better on mobile for actually creating models. Not Just viewing. After making this code work in JSKetcher with a few customizations specific to JSketcher I extracted the code and cleaned it up to work more generically. 
